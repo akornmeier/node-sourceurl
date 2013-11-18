@@ -2,14 +2,12 @@
   "name": "sourceurl",
   "version": "0.1.0",
   "description": "generate sourceurls",
-  "keywords": [],
+  "keywords": [ "sourceurl", "eval" ],
   "author": "Stephen Mathieson <me@stephenmathieson.com>",
   "repository": {
     "type": "git",
     "url": "git://github.com/stephenmathieson/node-sourceurl.git"
   },
-  "dependencies": {},
-  "devDependencies": {},
   "main": "index",
   "bugs": {
     "url": "https://github.com/stephenmathieson/node-sourceurl/issues"
