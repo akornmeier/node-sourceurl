@@ -5,7 +5,7 @@
 
 ## Installation
 
-    $ npm install stephenmathieson/node-sourceurl
+    $ npm install sourceurl
 
 ## API
 
