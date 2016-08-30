@@ -21,7 +21,7 @@ function sourceURL(js, args, url) {
   var source = String(js);
 
   source += '\n\n';
-  source += '//@ sourceURL=' + url;
+  source += '//# sourceURL=' + url;
 
   var fn = 'Function(';
   if (args && args.length) {
