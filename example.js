@@ -14,6 +14,7 @@ var js = [
 var fn = sourceURL(js, [ 'message' ], 'test.js');
 
 try {
+  console.log(vm);
   vm.runInNewContext(fn + '.call(null, "it works")', {});
 } catch (err) {
   assert(~err.stack.indexOf('(test.js:2:7)'));
