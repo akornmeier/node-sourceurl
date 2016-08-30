@@ -1,3 +1,7 @@
+# 0.1.2
+
+- updates depreciated syntax
+- fixes Travis CI build issue
 
 # 0.1.1
 
